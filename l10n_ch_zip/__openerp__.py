@@ -41,6 +41,6 @@
     'images': [],
     'demo': [],
     'auto_install': False,
-    'installable': False,
+    'installable': True,
     'application': True,
 }

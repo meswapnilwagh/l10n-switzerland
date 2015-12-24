@@ -73,6 +73,6 @@ payment terms.
  'demo': [],
  'test': [],
  'auto_install': False,
- 'installable': False,
+ 'installable': True,
  'images': []
  }

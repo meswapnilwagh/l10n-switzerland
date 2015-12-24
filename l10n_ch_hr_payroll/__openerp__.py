@@ -50,5 +50,5 @@
         'views/hr_contract_view.xml',
         'views/hr_employee_view.xml',
     ],
-    'installable': False
+    'installable': True
 }

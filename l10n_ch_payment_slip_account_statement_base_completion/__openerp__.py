@@ -49,6 +49,6 @@ bank-statement-reconcile project in the banking addons
  'website': 'http://www.camptocamp.com',
  'data': ['data.xml'],
  'tests': [],
- 'installable': False,
+ 'installable': True,
  'auto_install': True,
  }
